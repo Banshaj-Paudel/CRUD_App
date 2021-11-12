@@ -2,7 +2,7 @@
 //Credentials of the database
 $username = "root";
 $servername = "localhost";
-$password = "barsanjay_1";
+$password = "";
 $dbName = "Notes";
 
 //Connection to the database
